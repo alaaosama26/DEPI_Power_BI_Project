@@ -24,7 +24,7 @@ The dataset used for this analysis consists of multiple tables, including:
 The analysis involved the following steps:
 
 1. **Exploratory Data Analysis (EDA)**: Examined the dataset to identify key trends and patterns, as well as potential issues such as missing values, outliers, and inconsistencies.
-2. **Data Cleaning**: Addressed issues like missing data, incorrect data types, and duplicate records. Cleaned and standardized data across multiple tables.
+2. **Data Cleaning**: Addressed issues like missing data, incorrect data types, and NULL records. Cleaned and standardized data across multiple tables.
 3. **Data Modeling**: Created relationships between tables based on the business process, focusing on warehouse operations, sales reps’ targets, and outlet visits.
 4. **Dashboard Design**: Developed a Power BI dashboard to visualize key insights, including sales performance, outlet visits, and product returns.
 
@@ -37,8 +37,6 @@ The analysis involved the following steps:
 
 ## Tools Used
 - **Power BI**: For data visualization and dashboard creation.
-- **Python**: For data cleaning and analysis.
-- **Excel**: For data organization and preliminary analysis.
 
 ## Dashboard Preview
 The interactive dashboard showcases:
